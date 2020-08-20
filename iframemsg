@@ -1,0 +1,2 @@
+
+<!DOCTYPE html><html><head></head><body><input id="error" type="hidden" value="{&quot;type&quot;:&quot;downloader_error&quot;,&quot;error&quot;:{}}" /><script nonce="w+lubhzAcZiqqcpv9Dky4KeJixmxhXwYS19ruTJ2IfoFSu5v">(function() {var message = document.getElementById('error').value;var host = window.location.hostname + (window.location.port ? ':' + window.location.port : '');window.parent.postMessage(message, "https://" + host);})();</script></body></html>
