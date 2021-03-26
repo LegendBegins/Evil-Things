@@ -1,1 +1,1 @@
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'http://google.com'>">
+<!ENTITY % c SYSTEM "file:///proc/self/environ">
